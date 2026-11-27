@@ -1,0 +1,1 @@
+delete from public.site_settings where key in ('corner_feet','email','phone','license','google_review_url','stat_jobs','stat_rating','stat_response','stat_reviews','solutions_image_url');

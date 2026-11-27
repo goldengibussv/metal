@@ -1,0 +1,1 @@
+ALTER TABLE public.roof_training ADD COLUMN IF NOT EXISTS sketch_image_path text;
